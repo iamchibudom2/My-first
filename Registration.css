@@ -1,0 +1,104 @@
+    html{background-color: rgb(48, 45, 45)}
+    .Details{
+      position: absolute;
+      display: inline-block;
+      margin-left: 25cm;
+      margin-top: -1.4cm;
+      margin-bottom: -2cm;
+      padding: 30px;
+      padding-bottom: 10CM;
+      background-color: rgba(221, 110, 110, 0.548);
+    } 
+    p{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 20px;
+      line-height: 15px;
+      color: whitesmoke;
+    }
+    .Services{
+      background-color: green;
+      font-size: 17px;
+       padding: 10px;
+       border-radius: 30px;
+       border-style: solid;
+       border-color: black;
+       }
+    .Services:hover{opacity: 0.7;}
+    .Services:active{opacity: 0.4;}  
+
+    input{
+      padding: 10px;
+      width: 300px;
+      font-size: 18PX;
+      border: 1px;
+      border-style: solid;
+    }
+   .head{
+    font-size: 30px;
+   font-weight: bolder;
+    color: rgb(248, 195, 203);
+    font-family: Elephant;
+    margin-top: 2px;
+    margin-bottom: 2cm;
+   }
+   .guide{
+    border: 2px;
+    border-style: solid;
+    padding: 8px;
+    margin-top: 25px;
+    margin-bottom: 14px;
+    font-size: 19px;
+    font-family: Eras Medium ITC
+   }
+
+   .Registration{
+   font-size: 25px;
+    font-family: for  te;
+    background-color: pink;
+    padding: 6px;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: 1px;
+    border-radius: 30px;
+    vertical-align: top;
+   }
+   .link{
+    background-color: rgb(2, 148, 2);
+    font-size: 16px;
+    border: 1px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 5px;
+    padding: 6px;
+    cursor: pointer;
+   }
+   .link:hover{
+    background-color: rgb(5, 199, 5);
+   }
+   .link:active{
+    opacity: 0.6;
+   }
+   .edit{
+    margin-left: 100PX;
+   }
+   .rules{
+    font-size: 18px;
+    padding: 5px;
+    padding-left: 12px;
+    padding-right: 12px;
+    border: 2px;
+    border-color: antiquewhite;
+    border-style: solid;
+    border-radius: 12px;
+    }
+    .checkbox{
+      width: 20px;
+      cursor: pointer;
+      transition: 0.6s
+    }
+    .checkbox:active{cursor: grab;}
+    .first-div{
+      margin-top: 1.4cm;
+      border-style: solid;
+      border: 2px;
+    }
